@@ -14,7 +14,7 @@
   ### Reflection...
   #### 💭 “A verdadeira motivação vem de realização, desenvolvimento pessoal, satisfação e reconhecimento..” 💭
   
-  ##  💻 Tecnologias
+  ##  Tecnologias 💻
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
   ## Estatísticas 📈
@@ -24,8 +24,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustrpaz&layout=compact&langs_count=16&theme=dark"/>
 </div>
  
- ##
- 
+   ## Redes Sociais 📌
  <div>
   <a href="https://www.youtube.com/channel/UCcPa9DHu3VKhiV9RQLXLhjw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/slv.rezende/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
