@@ -1,7 +1,7 @@
 
 ## Welcome to my profile -Gustavo Rezende Paz 
 ### Olá 😉
-### Sou aluno do senai de informática, cursando na área de Desenvolvimento de sistemas.
+### Desenvolvedor de sistemas JR.
 
 
  - 📚 Cursando Desenvolvimento de Sistemas.
