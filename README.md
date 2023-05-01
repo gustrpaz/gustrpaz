@@ -4,7 +4,7 @@
 ### Desenvolvedor de sistemas JR.
 
 
- - 📚 Cursando Desenvolvimento de Sistemas.
+ - 📚 Cursando Sistemas de Informação.
  - 🧐 Disposto e aberto a novas oportunidades.
  - 🙋‍♂️ Sobre mim: Apaixonado pela tecnologia, esporte e jogos fazem parte de mim
  - 📌 Brazil, São Paulo
