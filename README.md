@@ -1,8 +1,6 @@
 
 ## Welcome to my profile -Gustavo Rezende Paz 
-### Olá 😉
-### Desenvolvedor de sistemas JR.
-
+## Desenvolvedor de sistemas JR.
 
  - 📚 Cursando Sistemas de Informação.
  - 🎓 Formado no curso técnico de Desenvolvimento de Sistemas no Senai Informática.
