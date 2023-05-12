@@ -5,8 +5,8 @@
  - 📚 Cursando Sistemas de Informação.
  - 🎓 Formado no curso técnico de Desenvolvimento de Sistemas no Senai Informática.
  - 🧐 Disposto e aberto a novas oportunidades.
- - 🙋‍♂️ Sobre mim: Apaixonado pela tecnologia, esporte e jogos fazem parte de mim
- - 📌 Brazil, São Paulo
+ - 🙋‍♂️ Sobre mim: Apaixonado pela tecnologia, esportes e jogos.
+ - 📌 Brazil, São Paulo.
 
 
   ### Reflection...
