@@ -3,7 +3,7 @@
 ### Desenvolvedor de sistemas FullStack
 
  - 📚 Cursando Sistemas de Informação.
- - 🎓 Formado no curso técnico de Desenvolvimento de Sistemas.
+ - 🎓 Formado no curso técnico em Desenvolvimento de Sistemas.
  - 🧐 Disposto e aberto a novas oportunidades.
  - 🙋‍♂️ Sobre mim: Apaixonado pela tecnologia, esportes e jogos.
  - 📌 Brazil, São Paulo.
