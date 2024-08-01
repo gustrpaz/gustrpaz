@@ -1,5 +1,5 @@
 
-## Welcome to my profile! Gustavo Rezende Paz  😊
+## Welcome to my profile! 😊
 ### Desenvolvedor de sistemas FullStack
 
  - 📚 Cursando Sistemas de Informação.
