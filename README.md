@@ -2,9 +2,8 @@
 ## Welcome to my profile! 😊
 ### Desenvolvedor de sistemas FullStack
 
- - 📚 Cursando Sistemas de Informação.
+ - 📚 Sistemas de Informação.
  - 🎓 Formado no curso técnico em Desenvolvimento de Sistemas.
- - 🧐 Disposto e aberto a novas oportunidades.
  - 🙋‍♂️ Sobre mim: Apaixonado pela tecnologia, esportes e jogos.
  - 📌 Brazil, São Paulo.
 
